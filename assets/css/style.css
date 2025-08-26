@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Bug Bounty Learning Journal</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <!-- Optional: Add favicon, SEO tags -->
+</head>
+<body>
+  <header>
+    <h1>Bug Bounty Learning Journal</h1>
+    <p>Tracking daily learnings, bug bounty writeups, payloads, and research notes.</p>
+    <nav>
+      <a href="pages/daily-journal.html">Daily Journal</a> |
+      <a href="pages/bug-writeups.html">Bug Writeups</a> |
+      <a href="pages/payloads.html">Payloads</a> |
+      <a href="pages/tools.html">Tools</a> |
+      <a href="pages/about.html">About</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome!</h2>
+      <p>This site documents my bug bounty journey. Each day I study Medium posts and add practical notes for web security testing, reconnaissance tactics, and real bug bounty reports.</p>
+    </section>
+    <section>
+      <h3>Sections</h3>
+      <ul>
+        <li><b>Daily Journal:</b> Summaries and insights from my daily bug bounty research.</li>
+        <li><b>Bug Writeups:</b> Case studies, reports, and successful exploits with remediation advice.</li>
+        <li><b>Payload Library:</b> Curated payloads, scripts, and techniques for modern bug hunting.</li>
+        <li><b>Tools & Scripts:</b> Automation frameworks and code for reconnaissance and testing.</li>
+        <li><b>About:</b> My profile, approach, and open source contacts.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 Tojojo | Powered by GitHub Pages</p>
+  </footer>
+</body>
+</html>
